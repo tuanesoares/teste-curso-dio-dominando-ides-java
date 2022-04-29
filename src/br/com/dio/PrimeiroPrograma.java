@@ -19,13 +19,5 @@ public class PrimeiroPrograma {
 
 class Livros {
 	private String nome;
-	private String npag;
-}
-		/*int a = 2;
-		int b = 3;
-		// TODO Auto-generated method stub
-		System.out.println("Hello World");
-
-	}
-
+	private String npg;
 }
